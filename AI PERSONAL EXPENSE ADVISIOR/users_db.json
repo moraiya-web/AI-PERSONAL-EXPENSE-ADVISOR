@@ -1,0 +1,16 @@
+{
+  "moraiya": {
+    "fullname": "Samarth Moraiya",
+    "password": "cdbbb511851042408b68cc1cceac9586$25e09b0229f7d7c42e0f89720cdeb795cd5599ad16fcfb8c272888c0ec26c146"
+  },
+  "vansh": {
+    "fullname": "vansh moraiya",
+    "password": "f2ab66b140c3494db7553614c52517ba$8bfa4e005ddba41717b31da168918e2afb84a8860ddefa7104ae12e8100c411a"
+  },
+  "shejal": {
+    "fullname": "shejal yadav",
+    "password": "023ce512f7a840f28899bfe1d38c2ff5$20cf6000f149ca50c16ee67e7070288d31382e7048d8d7cd18a8616c657b55d5",
+    "security_question": "What is your childhood pet’s name?",
+    "security_answer": "avni"
+  }
+}
